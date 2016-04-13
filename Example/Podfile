@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'KVDrawShitKit_Example', :exclusive => true do
+  pod 'KVDrawShitKit', :path => '../'
+end
+
+target 'KVDrawShitKit_Tests', :exclusive => true do
+  pod 'KVDrawShitKit', :path => '../'
+
+  
+end
