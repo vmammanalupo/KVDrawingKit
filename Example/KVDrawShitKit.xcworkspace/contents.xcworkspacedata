@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:KVDrawShitKit/KVTestObject.h">
+   </FileRef>
+   <FileRef
+      location = "group:KVDrawShitKit/KVTestObject.m">
+   </FileRef>
+   <FileRef
       location = "group:KVDrawShitKit.xcodeproj">
    </FileRef>
    <FileRef
