@@ -1,0 +1,6 @@
+framework module KVDrawShitKit {
+  umbrella header "KVDrawShitKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

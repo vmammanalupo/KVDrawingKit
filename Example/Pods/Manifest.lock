@@ -1,0 +1,14 @@
+PODS:
+  - KVDrawShitKit (0.1.0)
+
+DEPENDENCIES:
+  - KVDrawShitKit (from `../`)
+
+EXTERNAL SOURCES:
+  KVDrawShitKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KVDrawShitKit: 6573c8287c6f786d5bafcd1c683ed3af214a89a9
+
+COCOAPODS: 0.39.0

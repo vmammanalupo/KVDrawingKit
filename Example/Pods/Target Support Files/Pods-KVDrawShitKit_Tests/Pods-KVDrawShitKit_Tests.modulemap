@@ -1,0 +1,6 @@
+framework module Pods_KVDrawShitKit_Tests {
+  umbrella header "Pods-KVDrawShitKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
